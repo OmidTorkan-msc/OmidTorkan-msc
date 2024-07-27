@@ -16,6 +16,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 - [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
 - [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
+
 ## My Skills
 - **Programming Languages**: Python, SQL
 - **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel
@@ -37,20 +38,38 @@ I am always eager to learn new technologies and take on challenging projects tha
   - **Model Building and Training** (Sequential models, embedding layers, dropout layers)
   - **Custom Classifier Implementations** (`BaseEstimator`, `ClassifierMixin`)
 
-<!--
+## 🔭 I’m currently working on
+- Developing a new NLP model for sentiment analysis.
+- Exploring deep learning techniques for image classification.
+- Working on a thesis related to AI ethics.
+- Building a data pipeline for real-time analytics.
 
-### 🔭 I’m currently working on
-- **I’m currently working on**: *(List your current projects, research, or areas of focus. For example, "developing a new NLP model for sentiment analysis," "exploring deep learning techniques for image classification," "working on a thesis related to AI ethics," or "building a data pipeline for real-time analytics." This section highlights your active interests and projects.)*
-- 🌱 I’m currently learning ...
-### 👯 I’m looking to collaborate on
-*("open-source machine learning projects," "NLP applications," "data science challenges," "AI for social good," or "innovative solutions in business information systems.")*
-### 🤔 I’m looking for help with
-- *(Describe what you need help with, such as "collaborating on open-source projects related to machine learning," "finding mentors in the AI industry," "improving my knowledge in data visualization techniques," or "getting feedback on my thesis project.")*
-### 💬 Ask me about
-- *(Invite questions on specific topics, such as "machine learning algorithms," "deep learning models," "NLP techniques," "data science workflows," "Python programming," "open-source contributions,")*
-- ### ⚡ Fun fact
-*("I love to solve complex puzzles and often participate in competitive coding events." or "In my free time, I enjoy hiking and exploring nature trails.")*
-- ### 📫 How to reach me
+## 👯 I’m looking to collaborate on
+- Open-source machine learning projects.
+- NLP applications.
+- Data science challenges.
+- AI for social good.
+- Innovative solutions in business information systems.
+
+## 🤔 I’m looking for help with
+- Collaborating on open-source projects related to machine learning.
+- Finding mentors in the AI industry.
+- Improving my knowledge in data visualization techniques.
+- Getting feedback on my thesis project.
+
+## 💬 Ask me about
+- Machine learning algorithms.
+- Deep learning models.
+- NLP techniques.
+- Data science workflows.
+- Python programming.
+- Open-source contributions.
+
+## ⚡ Fun fact
+- I love to solve complex puzzles and often participate in competitive coding events.
+- In my free time, I enjoy hiking and exploring nature trails.
+
+## 📫 How to reach me
 - **Email**: [omid.torkan@studenti.unimi.it]
 - **LinkedIn**: [www.linkedin.com/in/omid-torkan-2b30b01b4]
--->
+
