@@ -16,27 +16,35 @@ I am always eager to learn new technologies and take on challenging projects tha
 - [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
 - [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
+- [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
+
 
 ## My Skills
-- **Programming Languages**: Python, SQL
-- **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel
-- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Deep Learning Techniques**: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs
-- **Natural Language Processing (NLP)**:
-  - **Text Preprocessing and Tokenization**
-  - **Sentiment Analysis** (VADER, custom models)
-  - **Data Augmentation Techniques** (Synonym Replacement)
-  - **Text Cleaning** (using regex and BeautifulSoup)
-- **Data Collection and Web Scraping**: `requests`, BeautifulSoup
-- **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC
-- **Model Optimization**: Hyperparameter Tuning with RandomizedSearchCV
-- **Deep Learning Frameworks**: TensorFlow, Keras
-- **Visualization Tools**: Matplotlib
-- **Data Pipeline Automation**: Custom model wrappers and class weights handling for imbalanced data
-- **Other Tools**: Git, Jupyter Notebooks, AWS, QlikView
-- **Machine Learning Techniques**:
-  - **Model Building and Training** (Sequential models, embedding layers, dropout layers)
-  - **Custom Classifier Implementations** (`BaseEstimator`, `ClassifierMixin`)
+**Programming Languages:** Python, SQL
+**Data Analysis Tools:** Pandas, NumPy, SciPy, Power BI, Excel
+**Machine Learning Libraries:** Scikit-Learn, TensorFlow, Keras, PyTorch
+**Deep Learning Techniques:** Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs
+**Natural Language Processing (NLP):**
+Text Preprocessing and Tokenization
+Sentiment Analysis (VADER, custom models)
+Data Augmentation Techniques (Synonym Replacement)
+Text Cleaning (using regex and BeautifulSoup)
+**Audio Processing and Feature Extraction:**
+pyAudioAnalysis (Audio file processing, feature extraction)
+pywt (Wavelet Transforms)
+ShortTermFeatures (Short-term audio features extraction)
+**Unsupervised Learning:**
+KMeans Clustering
+**Data Collection and Web Scraping:** requests, BeautifulSoup
+**Model Evaluation:** Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC
+**Model Optimization:** Hyperparameter Tuning with RandomizedSearchCV
+**Deep Learning Frameworks:** TensorFlow, Keras
+**Visualization Tools:** Matplotlib
+**Data Pipeline Automation:** Custom model wrappers and class weights handling for imbalanced data
+**Other Tools:** Git, Jupyter Notebooks, AWS, QlikView
+**Machine Learning Techniques:**
+Model Building and Training (Sequential models, embedding layers, dropout layers)
+Custom Classifier Implementations (BaseEstimator, ClassifierMixin)
 
 ## 🔭 I’m currently working on
 - Developing a new NLP model for sentiment analysis.
