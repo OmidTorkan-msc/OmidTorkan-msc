@@ -85,5 +85,5 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 📫 How to reach me
 
-- **Email**: [omid.torkan@studenti.unimi.it]
+- **Email**: [omid.torkan@outlook.com]
 - **LinkedIn**: [www.linkedin.com/in/omid-torkan-2b30b01b4]
