@@ -21,31 +21,67 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## My Skills
 
-- **Programming Languages**: Python, SQL
-- **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel
-- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Deep Learning Techniques**: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs
-- **Natural Language Processing (NLP)**:
-  - Text Preprocessing and Tokenization
-  - Sentiment Analysis (VADER, custom models)
-  - Data Augmentation Techniques (Synonym Replacement)
-  - Text Cleaning (using regex and BeautifulSoup)
-- **Audio Processing and Feature Extraction**:
-  - pyAudioAnalysis (Audio file processing, feature extraction)
-  - pywt (Wavelet Transforms)
-  - ShortTermFeatures (Short-term audio features extraction)
-- **Unsupervised Learning**:
-  - KMeans Clustering
-- **Data Collection and Web Scraping**: requests, BeautifulSoup
-- **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC
-- **Model Optimization**: Hyperparameter Tuning with RandomizedSearchCV
-- **Deep Learning Frameworks**: TensorFlow, Keras
-- **Visualization Tools**: Matplotlib
-- **Data Pipeline Automation**: Custom model wrappers and class weights handling for imbalanced data
-- **Other Tools**: Git, Jupyter Notebooks, AWS, QlikView
-- **Machine Learning Techniques**:
-  - Model Building and Training (Sequential models, embedding layers, dropout layers)
-  - Custom Classifier Implementations (BaseEstimator, ClassifierMixin)
+- **Programming Languages**: Python, SQL  
+- **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel  
+- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch  
+- **Deep Learning Techniques**: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs  
+- **Natural Language Processing (NLP)**:  
+  - Text Preprocessing and Tokenization  
+  - Sentiment Analysis (VADER, custom models)  
+  - Data Augmentation Techniques (Synonym Replacement)  
+  - Text Cleaning (using regex and BeautifulSoup)  
+- **Audio Processing and Feature Extraction**:  
+  - pyAudioAnalysis (Audio file processing, feature extraction)  
+  - pywt (Wavelet Transforms)  
+  - ShortTermFeatures (Short-term audio features extraction)  
+- **Unsupervised Learning**:  
+  - KMeans Clustering  
+- **Data Collection and Web Scraping**: `requests`, `BeautifulSoup`  
+- **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC  
+- **Model Optimization**: Hyperparameter Tuning with `RandomizedSearchCV`  
+- **Deep Learning Frameworks**: TensorFlow, Keras  
+- **Visualization Tools**: Matplotlib  
+- **Data Pipeline Automation**: Custom model wrappers and class weights handling for imbalanced data  
+- **Other Tools**: Git, Jupyter Notebooks, AWS, QlikView  
+- **Machine Learning Techniques**:  
+  - Model Building and Training (Sequential models, embedding layers, dropout layers)  
+  - Custom Classifier Implementations (`BaseEstimator`, `ClassifierMixin`)  
+
+### Image Processing and Computer Vision
+- **Image Representation**: Sampling, Quantization  
+- **Histogram Analysis**: Equalization, Matching, and Contrast Adjustment  
+- **Filtering Techniques**: Smoothing (Gaussian, Median), Sharpening  
+- **Edge Detection**: Canny, Sobel, Laplacian  
+- **Image Segmentation**: Otsu's Thresholding, Region Growing, Watershed Segmentation  
+- **Morphological Operations**: Erosion, Dilation  
+- **Frequency Domain Analysis**: Fourier Transform  
+
+### Image Processing Libraries
+- **OpenCV**: Image Manipulation, Feature Extraction, Segmentation  
+- **Scikit-Image**: Filtering, Segmentation, Feature Extraction  
+- **PIL/Pillow**: Image Loading and Manipulation  
+
+### Intelligent Systems and Applications
+- **Human Tracking and Detection**:  
+  - Vision-Based Tracking Systems (e.g., high-visibility garments, stereo cameras)  
+  - Real-Time Tracking with RGB-D Sensors  
+  - Integration of Detection and Tracking Algorithms  
+- **Safety Monitoring and Industrial Applications**:  
+  - Wearable Technology for Worker Safety (e.g., RFID, GPS, Sensor Networks)  
+  - Proximity Detection Systems and Collision Avoidance in Hazardous Environments  
+  - Monitoring Systems for Worker Productivity and Safety Metrics  
+- **Data Analysis and System Design**:  
+  - Evaluation of High-Visibility Safety Garments (e.g., compliance with safety standards, degradation analysis)  
+  - Filtering and Classification Techniques (e.g., SVM, Histogram-Based Segmentation)  
+- **Environmental Systems and Metrics**:  
+  - Physiological Monitoring and Environmental Sensing for Safety  
+  - Algorithm Development and Data Processing for Safety Applications  
+- **Technologies and Tools**:  
+  - `ROS-Industrial`: Open Source Tools for Robotics and Automation  
+  - Visual C#: Development of Vision-Based Safety Systems  
+  - Spectrophotometry: Analysis of High-Visibility Garments  
+  
+
 
 ## 🔭 I’m currently working on
 
