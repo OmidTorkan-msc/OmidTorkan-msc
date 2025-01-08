@@ -49,6 +49,15 @@ I am always eager to learn new technologies and take on challenging projects tha
   - Model Building and Training (Sequential models, embedding layers, dropout layers)  
   - Custom Classifier Implementations (`BaseEstimator`, `ClassifierMixin`)  
 
+### Business Process Engineering
+- **Business Process Modeling**: Expertise in modeling business processes using **BPMN** (Business Process Model and Notation), including process flow diagrams for various business operations (e.g., login, registration, booking, payment).
+- **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
+- **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
+- **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
+- **Critical Success Factors Identification**: Identified and defined **Critical Success Factors (CSFs)** crucial for business success, including inventory management, driver-patient communication, and revenue management.
+- **Web-based Application Design**: Developed a conceptual framework for an **online car-sharing platform**, incorporating features like user registration, payment processing, and service management.
+- **Stakeholder Communication**: Utilized **BPMN** to create clear, accessible visual documentation for various stakeholders, enabling efficient communication between business analysts, developers, and non-technical participants.
+
 ### Image Processing and Computer Vision
 - **Image Representation**: Sampling, Quantization  
 - **Histogram Analysis**: Equalization, Matching, and Contrast Adjustment  
@@ -94,6 +103,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 - **Applications**:  
   - Inventory Classification in Supply Chain Management  
   - Comparative Analysis of Machine Learning Models for Classification  
+
   
 
 
