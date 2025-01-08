@@ -151,12 +151,13 @@ I am always eager to learn new technologies and take on challenging projects tha
   
 
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently focusing on
 
-- Developing a new NLP model for sentiment analysis.
-- Exploring deep learning techniques for image classification.
-- Working on a thesis related to AI ethics.
-- Building a data pipeline for real-time analytics.
+- Expanding my expertise in NLP and deep learning through personal projects.
+- Exploring cutting-edge AI techniques for real-world applications.
+- Contributing to open-source projects in machine learning and data science.
+- Enhancing my skills in scalable data pipelines and cloud-based analytics.
+
 
 ## 👯 I’m looking to collaborate on
 
