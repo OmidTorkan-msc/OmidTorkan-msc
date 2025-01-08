@@ -1,8 +1,7 @@
 # Hello, I'm Omid Torkan 👋
 
 ## About
-
-Hello! I'm Omid Torkan, a passionate software developer and data scientist with a strong academic background and hands-on experience in machine learning, deep learning, and natural language processing (NLP). I hold a Master's degree in Computer Science from the University of Milan, where I completed several projects focusing on advanced AI techniques and their applications.
+Hello! I'm Omid Torkan, a passionate software developer and data scientist with a strong academic background and hands-on experience in machine learning, deep learning, and natural language processing (NLP). I hold a Master's degree in Computer Science from the University of Milan, where I gained comprehensive knowledge in advanced AI techniques and their applications.
 
 Throughout my academic journey and professional experience, I have developed a solid foundation in programming languages such as Python and SQL, and I'm proficient in using various data analysis and machine learning libraries, including Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, and Keras. I have also worked extensively with deep learning architectures, particularly LSTM networks and bidirectional LSTMs, for NLP tasks.
 
