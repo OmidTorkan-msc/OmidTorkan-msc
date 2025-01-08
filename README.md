@@ -73,13 +73,25 @@ I am always eager to learn new technologies and take on challenging projects tha
 - **Data Analysis and System Design**:  
   - Evaluation of High-Visibility Safety Garments (e.g., compliance with safety standards, degradation analysis)  
   - Filtering and Classification Techniques (e.g., SVM, Histogram-Based Segmentation)  
-- **Environmental Systems and Metrics**:  
-  - Physiological Monitoring and Environmental Sensing for Safety  
-  - Algorithm Development and Data Processing for Safety Applications  
 - **Technologies and Tools**:  
   - `ROS-Industrial`: Open Source Tools for Robotics and Automation  
   - Visual C#: Development of Vision-Based Safety Systems  
   - Spectrophotometry: Analysis of High-Visibility Garments  
+
+### Spatial Sound Processing and Rendering
+- **Reverberation Techniques**:
+  - Feedback Delay Network (FDN)
+  - Convolution-Based Reverberation  
+  - Schroeder's Methods (e.g., Freeverb)  
+- **3D Audio Spatialization**:
+  - Head-Related Transfer Function (HRTF) Implementation  
+  - Binaural Rendering for Realistic Sound Perception  
+- **Sound Rendering Tools**:
+  - `pyo` Library for Spatial Sound Simulation  
+  - Audio Effects Analysis using WGverb, Freeverb, and Convolve  
+- **Applications**:
+  - Virtual Reality, Gaming, and Acoustic Simulation  
+  - Dynamic Spatial Audio Rendering with Adjustable Parameters  
   
 
 
