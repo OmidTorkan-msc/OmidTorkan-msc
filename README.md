@@ -127,6 +127,24 @@ I am always eager to learn new technologies and take on challenging projects tha
   - Employing optimizers like Adam for scalable and efficient training.  
 - **Performance Scaling**: Strategies to manage memory constraints and improve model scalability on massive datasets.  
 - **Model Evaluation at Scale**: Techniques for validating and testing models with large datasets using metrics like accuracy and loss trends.  
+### Bioinformatics and Genomics
+- **Cis-Regulatory Region Analysis**: Prediction of active promoters and enhancers using deep learning models.  
+- **Deep Learning Models for Genomic Data**:  
+  - Perceptron for linear feature combinations.  
+  - Feedforward Neural Networks for extracting nonlinear patterns.  
+  - Convolutional Neural Networks (CNNs) for feature extraction and sequence pattern recognition.  
+  - Multi-Model Neural Networks for combining CNN and feedforward features.  
+- **Epigenomics Data Handling**: Experience with datasets like HG38 and tools like FANTOM and UCSC Genome Browser for genomic analysis.  
+- **Data Preprocessing Techniques**:  
+  - KNN Imputation for handling missing values.  
+  - Robust scaling for normalization of genomic data.  
+  - Pearson and Spearman correlation for identifying and removing redundant features.  
+- **Feature Selection**: Filtering highly correlated features to optimize model performance.  
+- **Data Visualization**: Applied techniques like t-SNE for visualizing high-dimensional genomic data in reduced dimensions.  
+- **Experimental Setup for Genomic Prediction**:  
+  - Stratified Holdout for ensuring balanced training and test sets.  
+  - Metrics like Mean Squared Error (MSE) and loss for model evaluation.  
+- **Programming and Tools**: Python, TensorFlow, Keras, SciPy, and sklearn.  
 
 
   
