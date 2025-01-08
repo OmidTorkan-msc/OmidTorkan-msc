@@ -191,3 +191,4 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 - **Email**: [omid.torkan@outlook.com]
 - **LinkedIn**: [www.linkedin.com/in/omid-torkan-2b30b01b4]
+- **Twitter**: [https://x.com/OmidTorkan86]
