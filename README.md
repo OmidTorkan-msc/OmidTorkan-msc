@@ -20,6 +20,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
 - [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
 - [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
+- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
 
 ## My Skills
 
