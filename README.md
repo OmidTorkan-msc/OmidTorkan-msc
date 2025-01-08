@@ -111,6 +111,22 @@ I am always eager to learn new technologies and take on challenging projects tha
 - **Applications**:  
   - Inventory Classification in Supply Chain Management  
   - Comparative Analysis of Machine Learning Models for Classification
+### Algorithms for Massive Datasets
+- **Scalable Data Processing**: Implementing algorithms capable of processing large datasets efficiently.  
+- **Data Preprocessing for Large Datasets**: Techniques for data normalization, resizing, and handling high-dimensional data.  
+- **Distributed Data Processing**: Familiarity with methods like data partitioning and batch processing to scale computations.  
+- **Algorithmic Techniques**:  
+  - Stream processing algorithms for single-pass data handling.  
+  - Approximation algorithms for large-scale problems.  
+  - External memory algorithms for out-of-core processing.  
+- **Data Generators**: Using tools like Image Data Generators for managing large-scale training data dynamically.  
+- **Neural Network Optimization**:  
+  - Designing convolutional architectures (CNNs) for feature extraction.  
+  - Utilizing advanced activation functions (Leaky ReLU) and regularization techniques (dropout layers).  
+  - Employing optimizers like Adam for scalable and efficient training.  
+- **Performance Scaling**: Strategies to manage memory constraints and improve model scalability on massive datasets.  
+- **Model Evaluation at Scale**: Techniques for validating and testing models with large datasets using metrics like accuracy and loss trends.  
+
 
   
 
