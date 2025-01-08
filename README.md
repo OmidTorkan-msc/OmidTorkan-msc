@@ -18,7 +18,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 - [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
-- [Sound In Interaction]([(https://github.com/OmidTorkan-msc/Sound-Interaction.git)]): Description of Project 5. *(University Course Project)*
+- [Sound In Interaction]((https://github.com/OmidTorkan-msc/Sound-Interaction.git)): Description of Project 5. *(University Course Project)*
 
 ## My Skills
 
