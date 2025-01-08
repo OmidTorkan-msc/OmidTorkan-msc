@@ -79,20 +79,20 @@ I am always eager to learn new technologies and take on challenging projects tha
   - Visual C#: Development of Vision-Based Safety Systems  
   - Spectrophotometry: Analysis of High-Visibility Garments  
 
-### Spatial Sound Processing and Rendering
-- **Reverberation Techniques**:
-  - Feedback Delay Network (FDN)
-  - Convolution-Based Reverberation  
-  - Schroeder's Methods (e.g., Freeverb)  
-- **3D Audio Spatialization**:
-  - Head-Related Transfer Function (HRTF) Implementation  
-  - Binaural Rendering for Realistic Sound Perception  
-- **Sound Rendering Tools**:
-  - `pyo` Library for Spatial Sound Simulation  
-  - Audio Effects Analysis using WGverb, Freeverb, and Convolve  
-- **Applications**:
-  - Virtual Reality, Gaming, and Acoustic Simulation  
-  - Dynamic Spatial Audio Rendering with Adjustable Parameters  
+### Statistical Methods for Machine Learning
+- **Classification Techniques**:  
+  - Support Vector Machines (SVM) with Kernel Functions (Linear, Polynomial, RBF, Sigmoid)  
+  - Backpropagation Neural Networks (BPN) for Classification and Pattern Recognition  
+  - K-Nearest Neighbors (k-NN) for Classification with Optimal k Selection  
+- **Inventory Management Models**:  
+  - Multi-Criteria Inventory Classification (ABC Analysis, DEA, AHP, TOPSIS)  
+  - Optimization Techniques for Inventory Scoring  
+- **Machine Learning Tools**:  
+  - LIBSVM for SVM Implementation  
+  - MATLAB Neural Network Toolbox for BPN and k-NN Development  
+- **Applications**:  
+  - Inventory Classification in Supply Chain Management  
+  - Comparative Analysis of Machine Learning Models for Classification  
   
 
 
