@@ -48,6 +48,14 @@ I am always eager to learn new technologies and take on challenging projects tha
 - **Machine Learning Techniques**:  
   - Model Building and Training (Sequential models, embedding layers, dropout layers)  
   - Custom Classifier Implementations (`BaseEstimator`, `ClassifierMixin`)  
+- **Information Management**:  
+  - **Data Modeling**: Skilled in designing and structuring data models for efficient storage and retrieval.  
+  - **Database Management**: Proficient in working with relational (SQL) and non-relational (NoSQL) databases.  
+  - **Data Governance**: Understanding of frameworks for ensuring data integrity, compliance, and quality.  
+  - **Data Integration**: Expertise in consolidating data from multiple sources into unified systems.  
+  - **Distributed Systems**: Knowledge of data-centric and client-centric consistency models and their trade-offs in distributed environments.  
+  - **Information Systems Design**: Capable of designing systems to support organizational operations and decision-making.  
+  - **OLTP and OLAP Systems**: Understanding of transaction processing and analytical systems for business data.
 
 ### Business Process Engineering
 - **Business Process Modeling**: Expertise in modeling business processes using **BPMN** (Business Process Model and Notation), including process flow diagrams for various business operations (e.g., login, registration, booking, payment).
@@ -102,7 +110,7 @@ I am always eager to learn new technologies and take on challenging projects tha
   - MATLAB Neural Network Toolbox for BPN and k-NN Development  
 - **Applications**:  
   - Inventory Classification in Supply Chain Management  
-  - Comparative Analysis of Machine Learning Models for Classification  
+  - Comparative Analysis of Machine Learning Models for Classification
 
   
 
