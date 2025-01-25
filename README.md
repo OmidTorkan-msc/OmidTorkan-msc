@@ -170,7 +170,7 @@ The Berlin Emotional Speech Database (Emo-dB), which contains German-language re
 The proposed system demonstrates robustness in recognizing basic emotions.
 SVM with a linear kernel outperformed other classifiers, achieving high accuracy in emotion classification.
 
-### [Sound In Interaction(University Course Project)](https://github.com/OmidTorkan-msc/Sound-Interaction.git
+### [Sound In Interaction(University Course Project)](https://github.com/OmidTorkan-msc/Sound-Interaction.git)
  
 - [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
 - [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
