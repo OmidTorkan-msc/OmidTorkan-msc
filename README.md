@@ -252,7 +252,55 @@ o	Softmax activation for classification.
 This project highlights the practical application of deep learning for real-world image classification tasks and addresses challenges like handling large datasets and optimizing model performance.
 
 
-- [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
+### [Prediction of Regulatory Regions Active in K562 Using Deep Learning(University Course Project)](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git)
+
+This project focuses on predicting active regulatory regions in the K562 cell line using advanced deep learning techniques. Regulatory regions, including promoters and enhancers, are critical for gene expression. The task involves identifying active promoters versus inactive promoters (APvsIP) and active enhancers versus inactive enhancers (AEvsIE). Various deep learning models were developed and analyzed to address this problem, including perceptrons, feed-forward neural networks, convolutional neural networks (CNNs), and multi-model architectures.
+
+**Key Contributions:**
+
+**1.	Deep Learning Models:**
+
+o	Perceptron: Linear modeling used as a baseline.
+
+o	Feed-Forward Neural Network: A multi-layer architecture designed to extract complex nonlinear patterns.
+
+o	Convolutional Neural Network: Applied to sequence data to capture localized patterns through filters and max-pooling layers.
+
+o	Multi-Model Neural Network: Combined features from feed-forward and convolutional networks for enhanced prediction accuracy.
+
+**2.	Data Sources:**
+
+o	Epigenomic Data: Active/inactive regulatory regions annotated.
+
+o	FANTOM Database: Provided labels for promoter and enhancer activity.
+
+o	UCSC Genome Browser: Retrieved genome sequences and annotations.
+
+**3.	Data Preprocessing:**
+
+o	KNN Imputation: Addressed missing values by averaging nearest neighbors.
+
+o	Normalization: Used robust scaling to manage outliers and standardize data.
+
+o	Correlation Analysis: Applied Pearson and Spearman tests to identify and drop uncorrelated or redundant features, ensuring cleaner datasets.
+
+**4.	Experimental Setup:**
+
+o	Tasks: APvsIP and AEvsIE classification.
+
+o	Evaluation: Utilized stratified holdout to balance classes and mitigate biases during training and testing.
+
+Achievements:
+
+•	Implemented and compared the effectiveness of different neural network architectures.
+
+•	Identified and removed irrelevant or highly correlated features, improving model performance.
+
+•	Leveraged epigenomic datasets to provide insights into active regulatory regions critical for gene regulation.
+
+This project demonstrates the utility of deep learning in bioinformatics, particularly for genomic regulatory region prediction. By combining rigorous preprocessing, innovative modeling techniques, and comprehensive evaluation, the models provide a strong foundation for further research in understanding gene regulation mechanisms.
+
+
 
 ## My Skills
 
