@@ -13,8 +13,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## Projects :
 
-### [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): 
-### Thesis: Enhancing Sentiment Analysis
+### [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Enhancing Sentiment Analysis
 ##### Investigating the Impact of Injecting Polarized Terms in NLP
 ###### This project demonstrates a robust approach to sentiment analysis across a diverse set of contracts, including business contracts and 10 other types such as Construction Contracts, Contracts for Deed, Daycare Contracts, and more. The methodology leverages VADER Sentiment Analysis to evaluate the tone of contracts and assess their sentiment polarity.
 - **Key Features**:
