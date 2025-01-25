@@ -114,7 +114,7 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Identified key emotional tones with high accuracy.
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
----
+___
 - **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
 - **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
 - **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
