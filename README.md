@@ -344,6 +344,31 @@ This project demonstrates the utility of deep learning in bioinformatics, partic
   - **Information Systems Design**: Capable of designing systems to support organizational operations and decision-making.  
   - **OLTP and OLAP Systems**: Understanding of transaction processing and analytical systems for business data.
 
+- **Business Process Modeling and Automation**:  
+  - BPMN (Business Process Model and Notation)  
+  - BPEL4People (Business Process Execution Language for People)  
+  - Process Automation & Workflow Management  
+  - KPI Development and Tracking (User Growth, Car Bookings, Demand Forecasting)
+
+- **Computer Vision and Image Processing**:  
+  - OpenCV (Image Manipulation, Feature Extraction)  
+  - Scikit-Image (Filtering, Segmentation)  
+  - Image Segmentation and Edge Detection (e.g., Sobel, Canny)  
+  - Morphological Operations (Erosion, Dilation)  
+  - Histogram Equalization and Matching  
+  - Fourier Transform (Frequency Domain Analysis)
+
+- **Human Tracking and Safety Systems**:  
+  - Vision-Based Tracking Systems (Stereo Cameras, High-Visibility Garments)  
+  - Real-Time Tracking with RGB-D Sensors  
+  - Wearable Technology for Safety (RFID, GPS, Sensor Networks)  
+  - Collision Avoidance in Hazardous Environments
+
+- **Stakeholder Communication**:  
+  - Visual Documentation for Stakeholders (BPMN for communication)  
+  - Collaboration between technical and non-technical teams
+
+
 ## 🔭 I’m currently focusing on
 
 - Expanding my expertise in NLP and deep learning through personal projects.
