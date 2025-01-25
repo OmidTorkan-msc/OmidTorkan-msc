@@ -127,7 +127,7 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
 
-- **Business Process Engineering and Automation in Car-Sharing Service**
+### Business Process Engineering and Automation in Car-Sharing Service
   - Conducted a comprehensive analysis of the car-sharing service business, utilizing value models to identify critical success factors (CSFs) for business growth and efficiency.
   - Expertise in **Business Process Modeling** using **BPMN** (Business Process Model and Notation), including creating process flow diagrams for key operations such as login, registration, booking, and payment.
   - Identified and defined **Critical Success Factors (CSFs)**, focusing on areas like inventory management, driver-patient communication, and revenue management.
