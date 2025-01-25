@@ -88,10 +88,12 @@ This project, conducted as part of my Master's degree at the University of Milan
 The project focuses on preprocessing event logs, identifying common process behavior, and applying various process discovery algorithms. Key steps include data cleaning, noise removal, segmenting logs, and evaluating process mining algorithms.
 
 **Key Components:**
+
 Data Preparation:
 
 In-depth exploration of the event log file, including activity frequencies, start and end activities, case duration analysis, and category distribution.
 Filtering and removing noise to improve data quality and ensure relevant insights.
+
 Process Discovery:
 
 Application of three process mining algorithms:
@@ -104,9 +106,11 @@ Segmenting and Filtering Data:
 Segmenting logs and applying filters to remove anomalies, rework activities, and infrequent variants.
 Focus on detecting and addressing bottlenecks to improve process efficiency.
 Goals:
+
 Knowledge Uplift: Identifying actionable interventions to enhance process completion, reduce management costs, and detect dysfunctional executions.
 Performance Evaluation: Using heatmap charts to compare the effectiveness of different process discovery algorithms.
 Tools Used:
+
 Python (with libraries like PM4Py for process mining and Disco for performance analytics)
 Petri-nets, Process Trees for visual representation
 This project provides a comprehensive analysis of process mining techniques and their application to real-world business log data.
