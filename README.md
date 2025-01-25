@@ -97,14 +97,19 @@ Filtering and removing noise to improve data quality and ensure relevant insight
 **Process Discovery:**
 
 Application of three process mining algorithms:
+
 Alpha Miner: Identifies parallel activities but struggles with complex process models.
+
 Inductive Miner: Bottom-up approach for creating more accurate process models.
+
 Heuristic Miner: Handles noisy data and captures more complex behavior.
 Comparison of results using process trees and Petri-nets for model visualization.
+
 Segmenting and Filtering Data:
 
 Segmenting logs and applying filters to remove anomalies, rework activities, and infrequent variants.
 Focus on detecting and addressing bottlenecks to improve process efficiency.
+
 **Goals:**
 
 Knowledge Uplift: Identifying actionable interventions to enhance process completion, reduce management costs, and detect dysfunctional executions.
