@@ -214,7 +214,31 @@ Highlighted the potential of neural networks and genetic algorithms for dynamic 
 **Applications:**
 This project provides a framework for improving supply chain operations by integrating machine learning techniques, with implications for industries requiring efficient inventory management strategies.
 
-- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
+### [Image Classification via Neural Network(University Course Project)](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset)
+
+**Project Summary**
+In this project, I developed a convolutional neural network (CNN) for classifying Turkish Lira banknotes into six denominations: 5, 10, 20, 50, 100, and 200. The dataset contained 6,000 balanced images with dimensions 1280x720x3. I applied preprocessing techniques, including resizing images to reduce computational costs and normalizing RGB values to accelerate convergence.
+The CNN architecture consisted of convolutional layers for feature extraction, max-pooling layers for scalability, LeakyReLU activation to avoid the "dying ReLU" problem, and dropout layers to prevent overfitting. The output layer used a softmax activation function for class prediction. The model was trained on 5,550 samples and validated on 450 images, achieving 98% test accuracy and 97% training accuracy after 12 epochs.
+To manage the large dataset, I implemented an image data generator to load batches into memory dynamically, enabling scalability and efficient training. The results demonstrate the model's robustness and adaptability to new data, showcasing its potential for real-world applications in image classification.
+**Key Details:**
+
+•	Dataset: 6,000 images (balanced across six classes).
+•	Preprocessing: Image resizing, RGB normalization.
+•	Architecture:
+o	Convolutional layers with LeakyReLU activation.
+o	Max-pooling and dropout layers for scalability and regularization.
+o	Softmax activation for classification.
+•	Optimizer: Adam with categorical cross-entropy loss.
+•	Accuracy: 98% (test), 97% (training).
+•	Tools: TensorFlow and Keras.
+•	Scalability: Utilized an image data generator to handle large datasets efficiently.
+**Files:**
+
+1.	preprocess-dataset.ipynb: Handles image resizing and dataset organization.
+2.	neural-net.ipynb: Defines the CNN model, trains it using the processed dataset, and evaluates performance.
+This project highlights the practical application of deep learning for real-world image classification tasks and addresses challenges like handling large datasets and optimizing model performance.
+
+
 - [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
 
 ## My Skills
