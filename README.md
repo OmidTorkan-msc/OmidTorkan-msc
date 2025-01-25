@@ -81,7 +81,7 @@ Prepares data pipelines for future integration with machine learning models.
 - **Identified key emotional tones with high accuracy.**
 - **Showcased the adaptability of the approach to various legal and business contexts.**
 - **Demonstrated the impact of data augmentation on sentiment distribution.**
-### [Business Information Systems(University Course Project):](https://github.com/OmidTorkan-msc/BIS-Project)
+### [Business Information Systems(University Course Project)](https://github.com/OmidTorkan-msc/BIS-Project)
 This project, conducted as part of my Master's degree at the University of Milan, leverages process mining techniques to analyze and optimize business processes using event log data from a multinational Dutch corporation involved in coatings and paints.
 
 **Overview**
@@ -123,7 +123,7 @@ This project provides a comprehensive analysis of process mining techniques and 
 
 
 
-### [Information Retrieval(University Course Project):](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-)
+### [Information Retrieval(University Course Project)](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-)
 
 **1. Course Overview:**
 Briefly describe the core principles and objectives of the information retrieval course. Mention topics like search engines, ranking algorithms, indexing, and query processing. Highlight how these elements are crucial for retrieving relevant information from large datasets, an essential task in many NLP applications.
@@ -192,7 +192,7 @@ The project demonstrates the integration of these methods for use in virtual rea
 
 
  
-### [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git)
+### [Statistical Methods for Machine Learning(University Course Project)](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git)
 
  This project focused on leveraging Support Vector Machines (SVM) to analyze and classify large-scale kernel machines, a critical method for inventory management and optimization. The study utilized advanced statistical and machine learning techniques, including k-Nearest Neighbors (k-NN) and Backpropagation Neural Networks (BPN), to evaluate and enhance traditional inventory classification methods.
 **Key Highlights:**
