@@ -81,7 +81,7 @@ Prepares data pipelines for future integration with machine learning models.
 - **Identified key emotional tones with high accuracy.**
 - **Showcased the adaptability of the approach to various legal and business contexts.**
 - **Demonstrated the impact of data augmentation on sentiment distribution.**
-### [Business Information Systems(University Course):](https://github.com/OmidTorkan-msc/BIS-Project)
+### [Business Information Systems(University Course Project):](https://github.com/OmidTorkan-msc/BIS-Project)
 This project, conducted as part of my Master's degree at the University of Milan, leverages process mining techniques to analyze and optimize business processes using event log data from a multinational Dutch corporation involved in coatings and paints.
 
 **Overview**
@@ -123,7 +123,7 @@ This project provides a comprehensive analysis of process mining techniques and 
 
 
 
-### [Information Retrieval(University Course):](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-)
+### [Information Retrieval(University Course Project):](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-)
 
 **1. Course Overview:**
 Briefly describe the core principles and objectives of the information retrieval course. Mention topics like search engines, ranking algorithms, indexing, and query processing. Highlight how these elements are crucial for retrieving relevant information from large datasets, an essential task in many NLP applications.
@@ -148,7 +148,7 @@ Share insights gained from applying information retrieval techniques in the real
 Conclude by considering how the concepts from the information retrieval course could inform future improvements in my NLP projects, particularly around optimizing models for better retrieval and classification of causal relationships, or even enhancing search algorithms within NLP applications.
 
 
-### [Speech Emotion Recognition using MFCC and PWP Features](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git)
+### [Speech Emotion Recognition using MFCC and PWP Features(University Course Project)](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git)
  
 This project focuses on recognizing emotions from speech signals by employing Mel-Frequency Cepstral Coefficients (MFCCs) and Perceptual Wavelet Packets (PWP) as acoustic features, and classifying emotions using K-Nearest Neighbors (KNN) and Support Vector Machines (SVM). The primary goal is to enhance emotion detection accuracy by leveraging different feature extraction methods and classification schemes.
 
@@ -171,7 +171,8 @@ The proposed system demonstrates robustness in recognizing basic emotions.
 SVM with a linear kernel outperformed other classifiers, achieving high accuracy in emotion classification.
 
  
-- [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
+ ## [Sound In Interaction(University Course Project)](https://github.com/OmidTorkan-msc/Sound-Interaction.git
+ 
 - [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
 - [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
 - [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
