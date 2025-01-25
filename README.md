@@ -1,15 +1,15 @@
 # Hello, I'm Omid Torkan 👋
 
 ## About
-Hello! I'm Omid Torkan, a passionate software developer and data scientist with a strong academic background and hands-on experience in machine learning, deep learning, and natural language processing (NLP). I hold a Master's degree in Computer Science from the University of Milan, where I gained comprehensive knowledge in advanced AI techniques and their applications.
+Hello! I'm Omid Torkan, a passionate **Data Analyst** with a strong background in Data Engineering and Machine Learning. I hold a Master's degree in Computer Science from the University of Milan, where I developed expertise in data analysis, statistical modeling, and machine learning.
 
-Throughout my academic journey and professional experience, I have developed a solid foundation in programming languages such as Python and SQL, and I'm proficient in using various data analysis and machine learning libraries, including Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, and Keras. I have also worked extensively with deep learning architectures, particularly LSTM networks and bidirectional LSTMs, for NLP tasks.
+As a Data Analyst, I specialize in transforming raw data into actionable insights by applying advanced techniques in data cleaning, exploratory data analysis (EDA), and visualization using tools like Pandas, NumPy, SciPy, and Power BI. I am skilled at analyzing large datasets, identifying trends and patterns, and making data-driven decisions to drive business success.
 
-My portfolio showcases a range of projects, from sentiment analysis and data augmentation to custom machine learning model development. I am particularly interested in the practical applications of AI in business information systems and information retrieval, which were key focus areas in my coursework and thesis.
+I have hands-on experience with a variety of machine learning algorithms, including regression models, classification, clustering (e.g., KMeans), and time-series analysis. I'm proficient in building end-to-end data pipelines, automating data processes, and integrating data from multiple sources. I also have experience in SQL for data manipulation and query optimization.
 
-In addition to my technical skills, I am proficient in data visualization with Matplotlib and have experience in data pipeline automation and web scraping. My projects reflect a blend of theoretical knowledge and practical implementation, aiming to solve real-world problems with innovative solutions.
+I enjoy exploring real-world data problems, applying statistical methods, and developing predictive models that provide value to businesses. My projects reflect my ability to deliver insights and solutions through data analysis, whether it's in business performance, sentiment analysis, or other domains.
 
-I am always eager to learn new technologies and take on challenging projects that push the boundaries of what is possible with AI and data science. Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss interesting ideas!
+I'm always eager to expand my knowledge and explore new data analysis techniques. Feel free to explore my repositories, and feel free to reach out if you'd like to collaborate or discuss innovative data solutions!
 
 ## Projects :
 
