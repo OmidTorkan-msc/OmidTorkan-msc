@@ -115,10 +115,10 @@ Prepares data pipelines for future integration with machine learning models.
 **2. Enhanced Insight:**
 - By analyzing multiple types of contracts, this project highlights the versatility of sentiment analysis in NLP.
 - Augmentation experiments simulate real-world scenarios, helping improve interpretability and robustness.
-
 **Future Extensions:**
-  - Integrate custom machine learning models for deeper analysis.
-  - Extend the methodology to detect complex emotional cues in large-scale datasets.
+- Integrate custom machine learning models for deeper analysis.
+
+- Extend the methodology to detect complex emotional cues in large-scale datasets.
 
 **Key Results**
 Across all 11 contract types, the sentiment analysis workflow:
