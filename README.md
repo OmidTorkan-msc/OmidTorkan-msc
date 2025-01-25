@@ -152,17 +152,21 @@ Conclude by considering how the concepts from the information retrieval course c
  
 This project focuses on recognizing emotions from speech signals by employing Mel-Frequency Cepstral Coefficients (MFCCs) and Perceptual Wavelet Packets (PWP) as acoustic features, and classifying emotions using K-Nearest Neighbors (KNN) and Support Vector Machines (SVM). The primary goal is to enhance emotion detection accuracy by leveraging different feature extraction methods and classification schemes.
 
-Key Features:
+**Key Features:**
 Mel-Frequency Cepstral Coefficients (MFCCs): Widely used in speech processing, MFCCs model the human auditory system and are effective for emotion detection in speech.
-Perceptual Wavelet Packets (PWP): These features capture perceptual properties of speech, offering a more detailed spectral analysis using wavelet transforms.
-Methodology:
+
+**Perceptual Wavelet Packets (PWP):** These features capture perceptual properties of speech, offering a more detailed spectral analysis using wavelet transforms.
+
+**Methodology:**
 Feature Extraction: MFCCs and PWP are extracted from speech signals to capture their emotional content.
+
 Clustering: K-means clustering is applied to the feature spaces of MFCC and PWP to group similar patterns.
 Classification: KNN and SVM classifiers are used to categorize emotions such as sadness, anger, happiness, and neutrality.
-Dataset:
+
+**Dataset:**
 The Berlin Emotional Speech Database (Emo-dB), which contains German-language recordings of emotional speech, was used for training and testing. The dataset includes recordings of 535 emotional samples spoken by 5 male and 5 female speakers, representing emotions such as anger, boredom, disgust, fear, sadness, happiness, and neutrality.
 
-Results:
+**Results:**
 The proposed system demonstrates robustness in recognizing basic emotions.
 SVM with a linear kernel outperformed other classifiers, achieving high accuracy in emotion classification.
 
