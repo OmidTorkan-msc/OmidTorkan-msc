@@ -121,8 +121,9 @@ Prepares data pipelines for future integration with machine learning models.
 
 - Extend the methodology to detect complex emotional cues in large-scale datasets.
 
-**Key Results**
+##### Key Results
 Across all 11 contract types, the sentiment analysis workflow:
+
 - Identified key emotional tones with high accuracy.
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
