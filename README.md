@@ -300,7 +300,6 @@ Achievements:
 
 This project demonstrates the utility of deep learning in bioinformatics, particularly for genomic regulatory region prediction. By combining rigorous preprocessing, innovative modeling techniques, and comprehensive evaluation, the models provide a strong foundation for further research in understanding gene regulation mechanisms.
 
----
 
 ## My Skills
 
