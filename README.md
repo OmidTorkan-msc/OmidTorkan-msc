@@ -106,15 +106,19 @@ Injects realistic sentences with specific sentiment tones to simulate edge cases
 Model Optimization:
 Prepares data pipelines for future integration with machine learning models.
 ### Applications and Benefits
+
 **1. Broad Applicability**:
 The workflow can be applied to any type of contract or legal document to determine its tone and sentiment.
 Supports businesses, legal teams, and analysts in assessing the emotional undertones of agreements.
+
 **2. Enhanced Insight:**
 - By analyzing multiple types of contracts, this project highlights the versatility of sentiment analysis in NLP.
 - Augmentation experiments simulate real-world scenarios, helping improve interpretability and robustness.
+
 **Future Extensions:**
   - Integrate custom machine learning models for deeper analysis.
   - Extend the methodology to detect complex emotional cues in large-scale datasets.
+
 **Key Results**
 Across all 11 contract types, the sentiment analysis workflow:
 - Identified key emotional tones with high accuracy.
