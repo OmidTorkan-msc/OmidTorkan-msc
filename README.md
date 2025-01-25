@@ -11,53 +11,9 @@ In addition to my technical skills, I am proficient in data visualization with M
 
 I am always eager to learn new technologies and take on challenging projects that push the boundaries of what is possible with AI and data science. Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss interesting ideas!
 
-## Projects Lists:
+## Projects :
 
 - [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
-- [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
-- [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
-- [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
-- [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
-- [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
-- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
-- [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
-
-## My Skills
-
-- **Programming Languages**: Python, SQL  
-- **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel  
-- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch  
-- **Deep Learning Techniques**: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs  
-- **Natural Language Processing (NLP)**:  
-  - Text Preprocessing and Tokenization  
-  - Sentiment Analysis (VADER, custom models)  
-  - Data Augmentation Techniques (Synonym Replacement)  
-  - Text Cleaning (using regex and BeautifulSoup)  
-- **Audio Processing and Feature Extraction**:  
-  - pyAudioAnalysis (Audio file processing, feature extraction)  
-  - pywt (Wavelet Transforms)  
-  - ShortTermFeatures (Short-term audio features extraction)  
-- **Unsupervised Learning**:  
-  - KMeans Clustering  
-- **Data Collection and Web Scraping**: `requests`, `BeautifulSoup`  
-- **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC  
-- **Model Optimization**: Hyperparameter Tuning with `RandomizedSearchCV`  
-- **Deep Learning Frameworks**: TensorFlow, Keras  
-- **Visualization Tools**: Matplotlib  
-- **Data Pipeline Automation**: Custom model wrappers and class weights handling for imbalanced data  
-- **Other Tools**: Git, Jupyter Notebooks, AWS, QlikView  
-- **Machine Learning Techniques**:  
-  - Model Building and Training (Sequential models, embedding layers, dropout layers)  
-  - Custom Classifier Implementations (`BaseEstimator`, `ClassifierMixin`)  
-- **Information Management**:  
-  - **Data Modeling**: Skilled in designing and structuring data models for efficient storage and retrieval.  
-  - **Database Management**: Proficient in working with relational (SQL) and non-relational (NoSQL) databases.  
-  - **Data Governance**: Understanding of frameworks for ensuring data integrity, compliance, and quality.  
-  - **Data Integration**: Expertise in consolidating data from multiple sources into unified systems.  
-  - **Distributed Systems**: Knowledge of data-centric and client-centric consistency models and their trade-offs in distributed environments.  
-  - **Information Systems Design**: Capable of designing systems to support organizational operations and decision-making.  
-  - **OLTP and OLAP Systems**: Understanding of transaction processing and analytical systems for business data.
-## Projects :
 ### Thesis: Enhancing Sentiment Analysis
 ##### Investigating the Impact of Injecting Polarized Terms in NLP
 ###### This project demonstrates a robust approach to sentiment analysis across a diverse set of contracts, including business contracts and 10 other types such as Construction Contracts, Contracts for Deed, Daycare Contracts, and more. The methodology leverages VADER Sentiment Analysis to evaluate the tone of contracts and assess their sentiment polarity.
@@ -126,6 +82,51 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Identified key emotional tones with high accuracy.
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
+- [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
+- [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
+- [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
+- [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
+- [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
+- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
+- [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
+
+## My Skills
+
+- **Programming Languages**: Python, SQL  
+- **Data Analysis Tools**: Pandas, NumPy, SciPy, Power BI, Excel  
+- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, PyTorch  
+- **Deep Learning Techniques**: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Bidirectional LSTMs  
+- **Natural Language Processing (NLP)**:  
+  - Text Preprocessing and Tokenization  
+  - Sentiment Analysis (VADER, custom models)  
+  - Data Augmentation Techniques (Synonym Replacement)  
+  - Text Cleaning (using regex and BeautifulSoup)  
+- **Audio Processing and Feature Extraction**:  
+  - pyAudioAnalysis (Audio file processing, feature extraction)  
+  - pywt (Wavelet Transforms)  
+  - ShortTermFeatures (Short-term audio features extraction)  
+- **Unsupervised Learning**:  
+  - KMeans Clustering  
+- **Data Collection and Web Scraping**: `requests`, `BeautifulSoup`  
+- **Model Evaluation**: Accuracy, Precision, Recall, F1 Score, ROC Curve, AUC  
+- **Model Optimization**: Hyperparameter Tuning with `RandomizedSearchCV`  
+- **Deep Learning Frameworks**: TensorFlow, Keras  
+- **Visualization Tools**: Matplotlib  
+- **Data Pipeline Automation**: Custom model wrappers and class weights handling for imbalanced data  
+- **Other Tools**: Git, Jupyter Notebooks, AWS, QlikView  
+- **Machine Learning Techniques**:  
+  - Model Building and Training (Sequential models, embedding layers, dropout layers)  
+  - Custom Classifier Implementations (`BaseEstimator`, `ClassifierMixin`)  
+- **Information Management**:  
+  - **Data Modeling**: Skilled in designing and structuring data models for efficient storage and retrieval.  
+  - **Database Management**: Proficient in working with relational (SQL) and non-relational (NoSQL) databases.  
+  - **Data Governance**: Understanding of frameworks for ensuring data integrity, compliance, and quality.  
+  - **Data Integration**: Expertise in consolidating data from multiple sources into unified systems.  
+  - **Distributed Systems**: Knowledge of data-centric and client-centric consistency models and their trade-offs in distributed environments.  
+  - **Information Systems Design**: Capable of designing systems to support organizational operations and decision-making.  
+  - **OLTP and OLAP Systems**: Understanding of transaction processing and analytical systems for business data.
+## Projects :
+
 
 ### Business Process Engineering and Automation in Car-Sharing Service
   - Conducted a comprehensive analysis of the car-sharing service business, utilizing value models to identify critical success factors (CSFs) for business growth and efficiency.
