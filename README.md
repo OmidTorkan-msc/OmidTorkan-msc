@@ -127,19 +127,23 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
 
-- **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
-- **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
-- **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
-- **Critical Success Factors Identification**: Identified and defined **Critical Success Factors (CSFs)** crucial for business success, including inventory management, driver-patient communication, and revenue management.
+- **Business Process Engineering and Automation in Car-Sharing Service**
+  - Conducted a comprehensive analysis of the car-sharing service business, utilizing value models to identify critical success factors (CSFs) for business growth and efficiency.
+  - Expertise in **Business Process Modeling** using **BPMN** (Business Process Model and Notation), including creating process flow diagrams for key operations such as login, registration, booking, and payment.
+  - Identified and defined **Critical Success Factors (CSFs)**, focusing on areas like inventory management, driver-patient communication, and revenue management.
+  
+- **Process Automation and Execution**
+  - Worked with **BPEL4People** to automate business processes, manage workflow execution, and ensure operational efficiency and compliance.
+  
+- **Performance Metrics and KPIs**
+  - Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on metrics like user growth, car bookings, demand forecasting, and customer satisfaction.
+  
+- **Web-based Application Design**
+  - Developed a **conceptual framework** for an online car-sharing platform, incorporating features like user registration, payment processing, and service management.
+  
+- **Stakeholder Communication**
+  - Created clear, accessible visual documentation using **BPMN** to facilitate efficient communication between business analysts, developers, and non-technical stakeholders.
 
-### Business Process Engineering
-- **Business Process Modeling**: Expertise in modeling business processes using **BPMN** (Business Process Model and Notation), including process flow diagrams for various business operations (e.g., login, registration, booking, payment).
-- **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
-- **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
-- **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
-- **Critical Success Factors Identification**: Identified and defined **Critical Success Factors (CSFs)** crucial for business success, including inventory management, driver-patient communication, and revenue management.
-- **Web-based Application Design**: Developed a conceptual framework for an **online car-sharing platform**, incorporating features like user registration, payment processing, and service management.
-- **Stakeholder Communication**: Utilized **BPMN** to create clear, accessible visual documentation for various stakeholders, enabling efficient communication between business analysts, developers, and non-technical participants.
 
 ### Image Processing and Computer Vision
 - **Image Representation**: Sampling, Quantization  
