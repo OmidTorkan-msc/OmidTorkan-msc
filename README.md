@@ -81,7 +81,39 @@ Prepares data pipelines for future integration with machine learning models.
 - **Identified key emotional tones with high accuracy.**
 - **Showcased the adaptability of the approach to various legal and business contexts.**
 - **Demonstrated the impact of data augmentation on sentiment distribution.**
-- [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
+### [Business Information Systems(University Course):](https://github.com/OmidTorkan-msc/BIS-Project)
+This project, conducted as part of my Master's degree at the University of Milan, leverages process mining techniques to analyze and optimize business processes using event log data from a multinational Dutch corporation involved in coatings and paints.
+
+**Overview**
+The project focuses on preprocessing event logs, identifying common process behavior, and applying various process discovery algorithms. Key steps include data cleaning, noise removal, segmenting logs, and evaluating process mining algorithms.
+
+**Key Components:**
+Data Preparation:
+
+In-depth exploration of the event log file, including activity frequencies, start and end activities, case duration analysis, and category distribution.
+Filtering and removing noise to improve data quality and ensure relevant insights.
+Process Discovery:
+
+Application of three process mining algorithms:
+Alpha Miner: Identifies parallel activities but struggles with complex process models.
+Inductive Miner: Bottom-up approach for creating more accurate process models.
+Heuristic Miner: Handles noisy data and captures more complex behavior.
+Comparison of results using process trees and Petri-nets for model visualization.
+Segmenting and Filtering Data:
+
+Segmenting logs and applying filters to remove anomalies, rework activities, and infrequent variants.
+Focus on detecting and addressing bottlenecks to improve process efficiency.
+Goals:
+Knowledge Uplift: Identifying actionable interventions to enhance process completion, reduce management costs, and detect dysfunctional executions.
+Performance Evaluation: Using heatmap charts to compare the effectiveness of different process discovery algorithms.
+Tools Used:
+Python (with libraries like PM4Py for process mining and Disco for performance analytics)
+Petri-nets, Process Trees for visual representation
+This project provides a comprehensive analysis of process mining techniques and their application to real-world business log data.
+
+
+
+
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
 - [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
