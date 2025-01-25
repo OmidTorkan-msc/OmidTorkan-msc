@@ -87,7 +87,7 @@ This project, conducted as part of my Master's degree at the University of Milan
 **Overview**
 The project focuses on preprocessing event logs, identifying common process behavior, and applying various process discovery algorithms. Key steps include data cleaning, noise removal, segmenting logs, and evaluating process mining algorithms.
 
-**Key Components:**
+- **Key Components:**
 
 **Data Preparation:**
 
