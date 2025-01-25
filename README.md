@@ -78,9 +78,9 @@ Prepares data pipelines for future integration with machine learning models.
 ### Key Results
 Across all 11 contract types, the sentiment analysis workflow:
 
-- Identified key emotional tones with high accuracy.
-- Showcased the adaptability of the approach to various legal and business contexts.
-- Demonstrated the impact of data augmentation on sentiment distribution.
+**- Identified key emotional tones with high accuracy.**
+**- Showcased the adaptability of the approach to various legal and business contexts.**
+**- Demonstrated the impact of data augmentation on sentiment distribution.**
 - [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
