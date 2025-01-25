@@ -11,7 +11,7 @@ In addition to my technical skills, I am proficient in data visualization with M
 
 I am always eager to learn new technologies and take on challenging projects that push the boundaries of what is possible with AI and data science. Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss interesting ideas!
 
-## Projects
+## Projects Lists:
 
 - [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
 - [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
