@@ -57,8 +57,8 @@ I am always eager to learn new technologies and take on challenging projects tha
   - **Distributed Systems**: Knowledge of data-centric and client-centric consistency models and their trade-offs in distributed environments.  
   - **Information Systems Design**: Capable of designing systems to support organizational operations and decision-making.  
   - **OLTP and OLAP Systems**: Understanding of transaction processing and analytical systems for business data.
-## Projects Details:
-
+## Projects :
+- [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
 ### Thesis: Enhancing Sentiment Analysis
 ##### Investigating the Impact of Injecting Polarized Terms in NLP
 ###### This project demonstrates a robust approach to sentiment analysis across a diverse set of contracts, including business contracts and 10 other types such as Construction Contracts, Contracts for Deed, Daycare Contracts, and more. The methodology leverages VADER Sentiment Analysis to evaluate the tone of contracts and assess their sentiment polarity.
