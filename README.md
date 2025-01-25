@@ -300,6 +300,13 @@ Achievements:
 
 This project demonstrates the utility of deep learning in bioinformatics, particularly for genomic regulatory region prediction. By combining rigorous preprocessing, innovative modeling techniques, and comprehensive evaluation, the models provide a strong foundation for further research in understanding gene regulation mechanisms.
 
+## Other Projects
+
+**- Business Process Engineering and Automation in Car-Sharing Service:** Designed BPMN models and automated workflows using BPEL4People.
+
+**- Image Processing and Computer Vision:** Implemented image segmentation, edge detection, and Fourier Transform techniques.
+
+**- Intelligent Systems and Applications:** Developed safety monitoring systems and real-time human tracking with RGB-D sensors.
 
 ## My Skills
 
