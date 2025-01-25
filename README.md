@@ -96,7 +96,7 @@ Filtering and removing noise to improve data quality and ensure relevant insight
 
  -**Process Discovery:**
 
-Application of three process mining algorithms:
+**Application of three process mining algorithms:**
 
 Alpha Miner: Identifies parallel activities but struggles with complex process models.
 
