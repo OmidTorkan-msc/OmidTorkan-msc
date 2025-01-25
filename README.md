@@ -192,7 +192,28 @@ The project demonstrates the integration of these methods for use in virtual rea
 
 
  
-- [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
+### [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git)
+
+ This project focused on leveraging Support Vector Machines (SVM) to analyze and classify large-scale kernel machines, a critical method for inventory management and optimization. The study utilized advanced statistical and machine learning techniques, including k-Nearest Neighbors (k-NN) and Backpropagation Neural Networks (BPN), to evaluate and enhance traditional inventory classification methods.
+**Key Highlights:**
+
+**Problem Addressed:**
+The project tackled the challenge of inventory classification in supply chain management, emphasizing multi-criteria evaluation over traditional methods relying solely on annual dollar usage.
+
+**Methods and Techniques:**
+SVM was used for its robustness in creating optimal hyperplanes for classification in high-dimensional spaces.
+k-NN and BPNs were integrated for comparative analysis, focusing on accuracy and predictive power.
+Genetic algorithms and multi-criteria approaches, including techniques like AHP and TOPSIS, were reviewed for broader applicability in inventory classification.
+
+**Contributions:**
+
+Demonstrated the superior accuracy of AI-based techniques like SVM and BPN over classical methods (e.g., multiple discriminant analysis).
+Evaluated the trade-offs of various models, identifying SVM as a versatile solution for applications ranging from inventory management to financial analysis and bioinformatics.
+Highlighted the potential of neural networks and genetic algorithms for dynamic inventory classification in real-world datasets.
+
+**Applications:**
+This project provides a framework for improving supply chain operations by integrating machine learning techniques, with implications for industries requiring efficient inventory management strategies.
+
 - [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
 - [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
 
