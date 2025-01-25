@@ -18,7 +18,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 ###### This project demonstrates a robust approach to sentiment analysis across a diverse set of contracts, including business contracts and 10 other types such as Construction Contracts, Contracts for Deed, Daycare Contracts, and more. The methodology leverages VADER Sentiment Analysis to evaluate the tone of contracts and assess their sentiment polarity.
 - **Key Features**:
 
-🔴1.Contract Types Analyzed:
+🔴Contract Types Analyzed:
 Business Contracts: Standard corporate agreements.
 Construction Contracts: Legal agreements for construction projects.
 Contract for Deed: Real estate purchase agreements.
@@ -31,18 +31,18 @@ Musical Performance Contracts: Artist and venue agreements.
 Photography Contracts: Agreements for professional photography services.
 Trucking Contracts: Freight and logistics contracts.
 
-🔴2.Sentiment Analysis:
+🔴Sentiment Analysis:
 Uses VADER SentimentIntensityAnalyzer to evaluate:
 Negative Sentiment: Indicates dissatisfaction or concerns.
 Neutral Sentiment: Represents objective or balanced tone.
 Positive Sentiment: Reflects favorable and optimistic language.
 Compound Sentiment: Aggregated sentiment score for overall tone.
 
-🔴3.Data Augmentation:
+🔴Data Augmentation:
 Injects synthetic sentences with predefined sentiment polarity (positive or negative) into training datasets to test sentiment shifts.
 Simulates real-world sentiment variations to enhance model robustness.
 
-🔴4.Visualization:
+🔴Visualization:
 Plots trends in sentiment polarity across datasets before and after data augmentation.
 Provides clear insights into how sentiment shifts impact overall contract tone.
 - **Key Techniques and Tools**:
