@@ -63,7 +63,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 ##### Investigating the Impact of Injecting Polarized Terms in NLP
 ###### This project demonstrates a robust approach to sentiment analysis across a diverse set of contracts, including business contracts and 10 other types such as Construction Contracts, Contracts for Deed, Daycare Contracts, and more. The methodology leverages VADER Sentiment Analysis to evaluate the tone of contracts and assess their sentiment polarity.
 - **Key Features**:
-1.Contract Types Analyzed:
+- 1.Contract Types Analyzed:
 Business Contracts: Standard corporate agreements.
 Construction Contracts: Legal agreements for construction projects.
 Contract for Deed: Real estate purchase agreements.
@@ -75,16 +75,16 @@ Lawn Service Contracts: Landscaping service agreements.
 Musical Performance Contracts: Artist and venue agreements.
 Photography Contracts: Agreements for professional photography services.
 Trucking Contracts: Freight and logistics contracts.
-2.Sentiment Analysis:
+- 2.Sentiment Analysis:
 Uses VADER SentimentIntensityAnalyzer to evaluate:
 Negative Sentiment: Indicates dissatisfaction or concerns.
 Neutral Sentiment: Represents objective or balanced tone.
 Positive Sentiment: Reflects favorable and optimistic language.
 Compound Sentiment: Aggregated sentiment score for overall tone.
-3.Data Augmentation:
+- 3.Data Augmentation:
 Injects synthetic sentences with predefined sentiment polarity (positive or negative) into training datasets to test sentiment shifts.
 Simulates real-world sentiment variations to enhance model robustness.
-4.Visualization:
+- 4.Visualization:
 Plots trends in sentiment polarity across datasets before and after data augmentation.
 Provides clear insights into how sentiment shifts impact overall contract tone.
 - **Key Techniques and Tools**:
@@ -116,7 +116,7 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Identified key emotional tones with high accuracy.
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
-___
+
 - **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
 - **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
 - **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
