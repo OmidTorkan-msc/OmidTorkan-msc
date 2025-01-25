@@ -123,7 +123,7 @@ This project provides a comprehensive analysis of process mining techniques and 
 
 
 
-- [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
+### [Information Retrieval(University Course):](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-)
 
 **1. Course Overview:**
 Briefly describe the core principles and objectives of the information retrieval course. Mention topics like search engines, ranking algorithms, indexing, and query processing. Highlight how these elements are crucial for retrieving relevant information from large datasets, an essential task in many NLP applications.
