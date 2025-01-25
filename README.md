@@ -124,6 +124,29 @@ This project provides a comprehensive analysis of process mining techniques and 
 
 
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
+
+**1. Course Overview:**
+Briefly describe the core principles and objectives of the information retrieval course. Mention topics like search engines, ranking algorithms, indexing, and query processing. Highlight how these elements are crucial for retrieving relevant information from large datasets, an essential task in many NLP applications.
+
+**2. Linking Information Retrieval to NLP:**
+Discuss how information retrieval techniques are applied to NLP tasks. For instance, text-based search and retrieval involve understanding query intent, ranking relevant results, and processing text data efficiently, which aligns with how NLP models analyze and understand language.
+Mention how methods like tokenization, term frequency, and document indexing are foundational for models that interpret large corpora of text, as seen in your causal relations in argumentation project.
+
+**3. Relevance to Causal Relation Detection:**
+Relate the knowledge gained from information retrieval to your work on causal relations in argumentation. Point out how the identification of causal relationships between entities in texts can be seen as a form of information retrieval, where the “cause” is retrieved as relevant information from a sentence or document and connected to the “effect.”
+Mention how you used deep learning and NLP libraries (like NLTK) to process and retrieve relevant data for your cause-effect relationship project, drawing parallels to information retrieval's focus on efficient data access and retrieval.
+
+**4. Application of Techniques in Your Project:**
+Talk about the specific techniques you learned in the course (like tokenization and vectorization) and how they were essential for preprocessing the text data in your deep learning models. For example, tokenizing text into sentences or words, stemming, and lemmatization directly impact how the network identifies patterns, similar to how an information retrieval system would process and index a document.
+Explain how the bidirectional LSTM with attention mechanism helped you retrieve important context from the text, akin to a retrieval system that selects and ranks relevant pieces of data based on a query’s needs.
+
+**5. Challenges and Insights:**
+Reflect on any challenges faced during the project that overlapped with information retrieval tasks, such as handling large datasets, ensuring the model retrieves relevant features (words/sentences), or dealing with noisy data.
+Share insights gained from applying information retrieval techniques in the real-world NLP tasks you worked on, such as how ranking and retrieval systems could be enhanced with deep learning models for more sophisticated language processing.
+
+**6. Future Directions:**
+Conclude by considering how the concepts from the information retrieval course could inform future improvements in your NLP projects, particularly around optimizing models for better retrieval and classification of causal relationships, or even enhancing search algorithms within NLP applications.
+
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
 - [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
 - [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
