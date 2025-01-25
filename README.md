@@ -89,12 +89,12 @@ The project focuses on preprocessing event logs, identifying common process beha
 
 **Key Components:**
 
-Data Preparation:
+**Data Preparation:**
 
 In-depth exploration of the event log file, including activity frequencies, start and end activities, case duration analysis, and category distribution.
 Filtering and removing noise to improve data quality and ensure relevant insights.
 
-Process Discovery:
+**Process Discovery:**
 
 Application of three process mining algorithms:
 Alpha Miner: Identifies parallel activities but struggles with complex process models.
@@ -105,7 +105,7 @@ Segmenting and Filtering Data:
 
 Segmenting logs and applying filters to remove anomalies, rework activities, and infrequent variants.
 Focus on detecting and addressing bottlenecks to improve process efficiency.
-Goals:
+**Goals:**
 
 Knowledge Uplift: Identifying actionable interventions to enhance process completion, reduce management costs, and detect dysfunctional executions.
 Performance Evaluation: Using heatmap charts to compare the effectiveness of different process discovery algorithms.
