@@ -13,13 +13,12 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## Projects Lists:
 
-- [Thesis](https://github.com/OmidTorkan-msc/Thesis-Project): Description of Project 1. *(University Course Project)*
-- [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
+
 - [Information Retrieval](https://github.com/OmidTorkan-msc/Causal-relations-in-argumentation-): Description of Project 3. *(University Course Project)*
 - [Audio Pattern Recognition](https://github.com/OmidTorkan-msc/Audio-Pattern-Recognition.git): Description of Project 4. *(University Course Project)*
 - [Sound In Interaction](https://github.com/OmidTorkan-msc/Sound-Interaction.git): Description of Project 5. *(University Course Project)*
 - [Statistical Methods for Machine Learning](https://github.com/OmidTorkan-msc/Statistical-Methods-for-Machine-Learning.git): Description of Project 6. *(University Course Project)*
-- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
+
 - [Bioinformatics and Genomics](https://github.com/OmidTorkan-msc/Bioinformatics-and-Genomics.git): Description of Project 8. *(University Course Project)*
 
 ## My Skills
@@ -127,7 +126,7 @@ Across all 11 contract types, the sentiment analysis workflow:
 - Identified key emotional tones with high accuracy.
 - Showcased the adaptability of the approach to various legal and business contexts.
 - Demonstrated the impact of data augmentation on sentiment distribution.
-
+- [Business Information Systems](https://github.com/OmidTorkan-msc/BIS-Project): Description of Project 2. *(University Course Project)*
 - **Business Process Analysis**: Conducted a comprehensive analysis of the car-sharing service business, utilizing **value models** and identifying critical success factors for business growth and efficiency.
 - **Process Automation and Execution**: Worked with **BPEL4People** to automate business processes and manage workflow execution, ensuring operational efficiency and compliance.
 - **Performance Metrics and KPIs**: Developed and tracked **Key Performance Indicators (KPIs)** to evaluate business performance, focusing on areas like user growth, car bookings, demand forecasting, and customer satisfaction.
@@ -188,6 +187,7 @@ Across all 11 contract types, the sentiment analysis workflow:
   - Inventory Classification in Supply Chain Management  
   - Comparative Analysis of Machine Learning Models for Classification
 ### Algorithms for Massive Datasets
+- [Algorithm For Massive Dataset](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset): Description of Project 7. *(University Course Project)*
 - **Scalable Data Processing**: Implementing algorithms capable of processing large datasets efficiently.  
 - **Data Preprocessing for Large Datasets**: Techniques for data normalization, resizing, and handling high-dimensional data.  
 - **Distributed Data Processing**: Familiarity with methods like data partitioning and batch processing to scale computations.  
