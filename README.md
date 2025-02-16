@@ -37,7 +37,7 @@ I thrive on solving real-world data challenges, whether it’s building end-to-e
 - Developed a CNN to classify Turkish Lira banknotes with **98% test accuracy**.
 - Utilized an image data generator to efficiently handle a large dataset of 6,000 images.
 
-[View All Projects](#)
+
 
 ---
 
