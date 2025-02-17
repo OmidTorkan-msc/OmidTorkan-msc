@@ -1,7 +1,7 @@
 # **Hello, I'm Omid Torkan 👋**
 
 ## **About Me**
-I’m a **Data Analyst, Data Engineer, and Machine Learning Specialist** with a passion for transforming data into actionable insights. I hold a Master’s degree in Computer Science from the **University of Milan**, where I specialized in data analysis, machine learning, and statistical modeling.
+I’m a **Data Scientist, Data Engineer, and Machine Learning Specialist** with a passion for transforming data into actionable insights. I hold a Master’s degree in Computer Science from the **University of Milan**, where I specialized in data analysis, machine learning, and statistical modeling.
 
 I thrive on solving real-world data challenges, whether it’s building end-to-end data pipelines, applying advanced machine learning techniques, or uncovering trends in massive datasets. My work combines technical expertise with a focus on delivering practical and impactful solutions.
 
@@ -36,8 +36,6 @@ I thrive on solving real-world data challenges, whether it’s building end-to-e
 ### [Image Classification](https://github.com/OmidTorkan-msc/Algorithm-For-Massive-Dataset)
 - Developed a CNN to classify Turkish Lira banknotes with **98% test accuracy**.
 - Utilized an image data generator to efficiently handle a large dataset of 6,000 images.
-
-
 
 ---
 
