@@ -18,6 +18,7 @@ I thrive on solving real-world data challenges, whether it’s building end-to-e
 ## **Projects**
 ### [**Tkinter Appointment Scheduler**](https://github.com/OmidTorkan-msc/tkinter-appointment-scheduler) – Desktop app in Python (Tkinter) with calendar picker, validation, auto-sort, JSON save, and overlap warnings.
 Completed as part of the **Apron Evals** project at **Outlier AI**: refactored the initial script into a production-ready Tkinter app with robust input validation, overlap detection & warnings, auto-sorting, and JSON persistence.
+
 **What I did**
 - Refactored an initial script into a small, testable Tkinter app.
 - Added robust input validation (title/date/time/duration) with clear messages.
