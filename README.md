@@ -8,10 +8,13 @@ I thrive on solving real-world data challenges, whether it’s building end-to-e
 ---
 
 ## **Highlights**
-- **Thesis**: Achieved **96.61% accuracy** and **0.9996 AUC** on sentiment analysis using data augmentation techniques.
+- **Thesis**: Achieved **96.61% accuracy** and **0.9996 AUC** on sentiment analysis using data augmentation.
 - **Image Classification**: Built a CNN with **98% test accuracy** for Turkish Lira banknote classification.
 - **Speech Emotion Recognition**: Enhanced emotion detection using MFCC and PWP features with SVM and KNN.
 - **Business Process Optimization**: Analyzed event logs to detect bottlenecks and improve workflow efficiency using process mining algorithms.
+- **Tkinter Appointment Scheduler**: Refactored an evaluation task into a clean desktop app with a calendar picker, input validation, **overlap detection & warnings**, auto-sorting, and JSON persistence.  
+  
+
 
 ---
 
