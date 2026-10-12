@@ -80,6 +80,17 @@ Python desktop application developed as part of an **Apron Evals project at Outl
 
 ---
 
+### [**Fruit and Vegetable Image Classification**]((https://github.com/OmidTorkan-msc/Fruit-and-Vegetable-Image-Classification))
+**Technologies:** Python, TensorFlow, Keras, Convolutional Neural Networks (CNN), NumPy, scikit-learn, Matplotlib.
+- Developed deep learning models based on Convolutional Neural Networks (CNNs) to classify fruit and vegetable images into multiple categories.
+- Implemented image preprocessing techniques, including image resizing and pixel normalization, to prepare image data for training and evaluation.
+- Built and trained CNN models using TensorFlow and Keras, experimenting with two notebook implementations to compare model performance.
+- Evaluated classification performance using accuracy, precision, recall, F1-score, and classification reports.
+- Applied a structured model evaluation workflow to analyze classification results and compare the performance of different model implementations.
+- Organized the project in Jupyter notebooks to document the modeling workflow, experiments, and evaluation results.
+
+---
+
 ## **Technical Skills**
 
 ### **AI, Machine Learning & NLP**
@@ -156,6 +167,14 @@ Python desktop application developed as part of an **Apron Evals project at Outl
 - KPI Analysis
 - Business Analytics
 - Data-Driven Decision Making
+
+### **Fruit and Vegetable Image Classification**
+Technologies: Python, TensorFlow, Keras, CNN, NumPy, scikit-learn
+- Developed a Convolutional Neural Network (CNN) for image classification of fruits and vegetables.
+- Implemented image preprocessing and normalization to prepare image data for model training.
+- Trained and evaluated deep learning models using TensorFlow and Keras.
+- Assessed model performance using accuracy, precision, recall, F1-score, and classification reports.
+- Experimented with two model implementations to compare classification performance.
 
 ---
 
